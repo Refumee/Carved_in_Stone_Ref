@@ -1,0 +1,10 @@
+Version 1.7.0
+
+* Norn gets new animations
+* Norn gets its own Mount
+* removed Norns grenade ability
+* fixed graphical bugs with Uthain and Norns mounts attacks
+
+Todo:
+Adding new Miner Hero
+- getting grenade ability from Norn
